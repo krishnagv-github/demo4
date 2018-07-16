@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:PaymentMethod xmlns:tns="http://www.example.org/PaymentMethod" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.example.org/PaymentMethod PaymentMethod.xsd ">
+  <tns:cardNumber>0</tns:cardNumber>
+  <tns:cardName>tns:cardName</tns:cardName>
+  <tns:expiryDate>2001-01-01</tns:expiryDate>
+  <tns:cardType>tns:cardType</tns:cardType>
+</tns:PaymentMethod>
